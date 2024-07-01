@@ -1,0 +1,9 @@
+.tasks ul {
+  padding: 0;
+  margin: 0;
+}
+
+.p-text {
+  font-weight: bold;
+  text-align: center;
+}

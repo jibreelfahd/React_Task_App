@@ -1,0 +1,10 @@
+.task--list {
+  list-style-type: none;
+  border-bottom: 1px solid #ccc;
+}
+
+.task--list p {
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
